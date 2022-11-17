@@ -1,0 +1,14 @@
+.foto{
+    display: block;
+    margin: 0px auto;
+    height: 300px;
+    margin-bottom: 5%;
+}
+.sim{
+    margin-left: 470px;
+}
+
+.nao{
+    position: relative;
+    left: 180px;
+}
